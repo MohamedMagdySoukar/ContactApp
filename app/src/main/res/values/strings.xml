@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactApp</string>
+    <string name="word_name">Name</string>
+    <string name="word_password">Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="add_contact">Add Contact</string>
+
+
+</resources>
